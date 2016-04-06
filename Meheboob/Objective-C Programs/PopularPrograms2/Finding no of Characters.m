@@ -1,6 +1,6 @@
 
 /*
-Program to find Number of Characters present in String
+Program to find Number of Characters present in String.
 
 */
 
