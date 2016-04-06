@@ -1,4 +1,4 @@
-/*Objective C Program to print pattern 
+/*Objective C Program to print pattern given Below
 
 *
 ***
@@ -9,6 +9,7 @@
 *
 
 */
+
 
 #import <Foundation/Foundation.h>
 
